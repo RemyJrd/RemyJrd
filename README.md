@@ -3,7 +3,6 @@
 </div>
 
 <center>## Rémy JARDIN - Cloud Architect</center>
-## Rémy JARDIN - Cloud Architect
 
 ---
 
